@@ -2,7 +2,7 @@
 
 
 - I’m currently working on Phase Jump, Mesacomplex, YCHOO, Aquarium Evasion, and more :)
-- I’m currently learning HTML5, Python, Unity
-- How to reach me: Discord: Duck#6666 Email: duccman99@gmail.com
+- I’m currently learning HTML5, Python, Unity, and C++
+- How to reach me: Discord: theduck666 (was previously Duck#6666) Email: duccman99@gmail.com
 - Pronouns: He/Him
 
