@@ -1,8 +1,8 @@
-### Hello! I'm Duck, I do web and game design and play lots of half-life :D
+### Yo, it's Duck, I play video games, code and stuff
 
 
-- I’m currently working on Phase Jump, Mesacomplex, YCHOO, Aquarium Evasion, and more :)
-- I’m currently learning HTML5, Python, Unity, and C++
+- I’m currently working on Phase Jump, YCHOO, my portfolio, and some other stuff
+- I’m currently learning HTML5, JS, Python, ~~Unity~~, and C++
 - How to reach me: Discord: theduck666 (was previously Duck#6666) Email: duccman99@gmail.com
 - Pronouns: He/Him
-
+- Hobbies: Gaming, Coding, MTG, and more.
