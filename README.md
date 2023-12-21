@@ -1,4 +1,4 @@
-### The Duck
+### Yo I'm The Duck
 
 
 - I’m currently working on a small project in LOVE2D, YCHOO, my portfolio, and some other stuff
