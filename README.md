@@ -1,8 +1,8 @@
-### Yo, it's Duck, I play video games, code and stuff
+### The Duck
 
 
-- I’m currently working on a small project in LOVE2D, Phase Jump, YCHOO, my portfolio, and some other stuff
-- I’m currently learning HTML5, JS, Lua, Python, ~~Unity~~, and C++
+- I’m currently working on a small project in LOVE2D, YCHOO, my portfolio, and some other stuff
+- I’m currently learning HTML5, JS, Lua, Python, and C++
 - How to reach me: Discord: theduck666 (was previously Duck#6666) Email: duccman99@gmail.com
 - Pronouns: He/Him
-- Hobbies: Gaming, Coding, MTG, and more.
+- Hobbies: Gaming, Coding, MTG, D&D, and more.
